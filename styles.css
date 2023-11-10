@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    text-align: center;
+}
+.container {
+    border: solid 2px black;
+    background-color: rgb(251, 231, 234);
+    width: 400px;
+    height: 300px;
+}
+
+.input-container {
+    text-align: center;
+}
+
+#attempts {
+    float: left;
+}
+
+#tracker {
+    float: right;
+    margin: 10px;
+}
+
+#message {
+    text-align: center;
+}
